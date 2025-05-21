@@ -2,10 +2,10 @@
 
 # Hi, I’m David Ocholi — Data Enthusiast | IT Professional | Growth-Oriented Analyst
 
-With over 5 years of experience in IT infrastructure, technical support, project coordination, and executive operations, I’m now channeling my skills into the dynamic world of Data Analytics.
+With over 5 years of experience in IT infrastructure management, technical support, project coordination, and executive support & operations. I am now channeling my skills into the dynamic world of Data Analytics.
 
 ## Background
-I hold a degree in Industrial Mathematics, which sharpened my analytical thinking and problem-solving skills. Over the years, I’ve managed large-scale digital systems, supported high-level decision-making, and coordinated projects that improve organizational efficiency. My interest in data grew as I realized the immense power it has to inform strategy and drive smarter decisions.
+I hold a bachelor's degree in Industrial Mathematics, which sharpened my analytical thinking and problem-solving skills and I'm rounding up a master's degree in Information Technology. Over the years, I’ve managed large-scale digital systems, supported high-level decision-making, and coordinated projects that improve organizational efficiency. My interest in data grew as I realized the immense power it has to solve problems, inform strategy and drive smarter decisions.
 
 ## My Data Learning Journey
 To transition into the data space, I’ve been hands-on with:
@@ -16,7 +16,7 @@ To transition into the data space, I’ve been hands-on with:
 
 •	Continuous personal projects using raw datasets
 
-I’ve learned to extract, clean, transform, analyze, and visualize data using modern tools and techniques — and I continue to challenge myself with diverse datasets to improve and apply these skills.
+I’ve learned to extract, clean, transform, analyze, and visualize data using modern tools and techniques, and I continue to challenge myself with diverse datasets to improve and apply these skills.
 
 Whether working independently or in a collaborative environment, I enjoy finding patterns in data and turning them into actionable insights that matter.
 ________________________________________
@@ -25,16 +25,18 @@ ________________________________________
 
 •	SQL: Writing and optimizing queries, extracting and transforming data from relational databases (MySQL, MS SQL Server)
 
-•	Power BI: Interactive dashboards and business reporting
+•	Power BI/Tableau: Interactive dashboards and business reporting
 
-•	Project Tools: Asana, Trello, Notion, Microsoft Teams
+•	Other Tools: Slack, Trello, Microsoft365, Google Workspace, Zoom, Asana, Notion
 
-•	Others: Technical report development, stakeholder engagement, process improvement
+•	AI Tools: ChatGPT, Gemini, Perplexity, Gamma, Co-Pilot, Deepseek, 
 
-![Untitled design](https://github.com/user-attachments/assets/f568f258-529a-4427-bf07-e95bbd034c75)
+•	Other Skills: Communication, technical report development, stakeholder engagement, process improvement.
+
+![Data Tools](https://github.com/user-attachments/assets/f568f258-529a-4427-bf07-e95bbd034c75)
 
 ________________________________________
-## Projects
+## Projects/Portfolio
 [Github](https://github.com/daveeocholi)
 
 [Business Porfolio](https://formadaoprec.my.canva.site/david-ocholi-portfolio)
@@ -47,7 +49,7 @@ ________________________________________
 
 •	🔗 [LinkedIn](https://www.linkedin.com/in/david-ocholi)
 
-•	💼 CV: xxxxxx
+•	💼 CV: 
 ________________________________________
 
 ## 🚀 Let’s grow — one dataset at a time.
