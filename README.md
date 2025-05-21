@@ -43,6 +43,9 @@ ________________________________________
 
 Check out my growing repository of real-world data analysis projects — where I test what I learn, visualize insights, and solve practical business problems using data.
 ________________________________________
+## My overall goal
+**To start & build a company that brings together various skills in tech like Data Analyst, Project/Product Managers, UI/UX, Devs, Virtual Assistants, and many more, to automate and solve various business problems.**
+________________________________________
 
 ## Connect with me
 •	📧 Email: daveeocholi@gmail.com
