@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-03-22 at 21 03 10_f783758f](https://github.com/user-attachments/assets/b735f7e1-36f1-4ea0-8f03-f4ceb750081e)
+![WhatsApp Image 2025-05-21 at 08 40 01_61c0c074](https://github.com/user-attachments/assets/c361f607-99f0-4064-9be0-1e31f2733f15)
 
 # Hi, I’m David Ocholi — Data Enthusiast | IT Professional | Growth-Oriented Analyst
 
