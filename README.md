@@ -34,7 +34,15 @@ ________________________________________
 •	Other Skills: Communication, technical report development, stakeholder engagement, process improvement.
 
 ![Data Tools](https://github.com/user-attachments/assets/f568f258-529a-4427-bf07-e95bbd034c75)
+________________________________________
+## Certifications
+•	TechCrush Boot Camp Certificate - Data Analysis
 
+•	Google Certified Data Analyst
+
+•	IBM Certified Data Analyst
+
+•	Google Certified Project Manager
 ________________________________________
 ## Projects/Portfolio
 [Github](https://github.com/daveeocholi)
@@ -50,7 +58,7 @@ ________________________________________
 ## Connect with me
 •	📧 Email: daveeocholi@gmail.com
 
-•	🔗 [LinkedIn](https://www.linkedin.com/in/david-ocholi)
+•	🔗 Linkedin Profile: [View Profile](https://www.linkedin.com/in/david-ocholi)
 
 •	💼 Resume: [View Resume](https://github.com/daveeocholi/Ocholi_Data_Analyst_Portfolio/blob/main/David%20Ocholi%20Resume%20%5BDA%5D.pdf)
 ________________________________________
