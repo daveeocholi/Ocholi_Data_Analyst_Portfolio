@@ -27,9 +27,9 @@ ________________________________________
 
 •	Power BI/Tableau: Interactive dashboards and business reporting
 
-•	Other Tools: Slack, Trello, Microsoft365, Google Workspace, Zoom, Asana, Notion
-
 •	AI Tools: ChatGPT, Gemini, Perplexity, Gamma, Co-Pilot, Deepseek, 
+
+•	Other Tools: Slack, Trello, Microsoft365, Google Workspace, Zoom, Asana, Notion
 
 •	Other Skills: Communication, technical report development, stakeholder engagement, process improvement.
 
@@ -49,7 +49,7 @@ ________________________________________
 
 •	🔗 [LinkedIn](https://www.linkedin.com/in/david-ocholi)
 
-•	💼 CV: 
+•	💼 Resume: [View Resume](https://github.com/daveeocholi/Ocholi_Data_Analyst_Portfolio/blob/main/David%20Ocholi%20Resume%20%5BDA%5D.pdf)
 ________________________________________
 
 ## 🚀 Let’s grow — one dataset at a time.
