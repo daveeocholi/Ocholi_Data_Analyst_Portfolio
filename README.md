@@ -5,7 +5,7 @@
 With over 5 years of experience in IT infrastructure management, technical support, project coordination, and executive support & operations. I am now channeling my skills into the dynamic world of Data Analytics.
 
 ## Background
-I hold a bachelor's degree in Industrial Mathematics, which sharpened my analytical thinking and problem-solving skills and I'm rounding up a master's degree in Information Technology, aimed at broadening my theoretical & practical knowledge of IT. Over the years, I’ve managed large-scale digital systems, supported high-level decision-making, and coordinated projects that improve organizational efficiency. My interest in data grew as I realized the immense power it has to solve problems, inform strategy and drive smarter decisions.
+I hold a bachelor's degree in Industrial Mathematics, which sharpened my analytical thinking and problem-solving skills and I'm rounding up a master's degree in Computer & Information Technology (CIT), aimed at broadening my theoretical & practical knowledge of IT. Over the years, I’ve managed large-scale digital systems, supported high-level decision-making, and coordinated projects that improve organizational efficiency. My interest in data grew as I realized the immense power it has to solve problems, inform strategy and drive smarter decisions.
 
 ## My Data Learning Journey
 To transition into the data space, I’ve been hands-on with:
