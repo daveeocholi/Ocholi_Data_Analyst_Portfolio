@@ -53,7 +53,7 @@ Check out my growing repository of real-world data analysis projects — where I
 
 [Business Porfolio](https://formadaoprec.my.canva.site/david-ocholi-portfolio)
 
-[My Personal Blog](https://medium.com/@daveccfi)
+[My Personal Blog](https://medium.com/@daveeocholi)
 ________________________________________
 ## My overall goal
 **To start & build a company that brings together various skills in tech like Data Analyst, Project/Product Managers, UI/UX, Devs, Virtual Assistants, and many more, to automate and solve various business problems.**
