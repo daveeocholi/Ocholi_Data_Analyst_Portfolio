@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-21 at 08 40 01_61c0c074](https://github.com/user-attachments/assets/c361f607-99f0-4064-9be0-1e31f2733f15)
+![445960008-c361f607-99f0-4064-9be0-1e31f2733f15](https://github.com/user-attachments/assets/f366fccb-0cda-4254-b45b-abdfcb5d380a)
 
 # Hi, I’m David Ocholi — A Data Enthusiast | IT Professional | Growth-Oriented Analyst
 
@@ -64,7 +64,7 @@ ________________________________________
 
 •	🔗 Linkedin Profile: [View Profile](https://www.linkedin.com/in/david-ocholi)
 
-•	💼 Resume: [View Resume](https://github.com/daveeocholi/Ocholi_Data_Analyst_Portfolio/blob/main/David%20Ocholi%20Working%20Resume%20(May%202025).pdf)
+•	💼 Resume: [View Resume](https://github.com/daveeocholi/Ocholi_Data_Analyst_Portfolio/blob/main/David%20Ocholi%20Resume%20%5BDA%5D%203.pdf)
 ________________________________________
 
 ## 🚀 Let’s grow — one dataset at a time.
