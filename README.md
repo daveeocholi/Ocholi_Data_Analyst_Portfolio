@@ -64,7 +64,7 @@ ________________________________________
 
 •	🔗 Linkedin Profile: [View Profile](https://www.linkedin.com/in/david-ocholi)
 
-•	💼 Resume: [View Resume](https://github.com/daveeocholi/Ocholi_Data_Analyst_Portfolio/blob/main/David%20Ocholi%20Resume%20%5BDA%5D%203.pdf)
+•	💼 Resume: [View Resume](https://github.com/daveeocholi/Ocholi_Data_Analyst_Portfolio/blob/main/David%20Ocholi%20Resume%20%5BDA%5D%205.pdf)
 ________________________________________
 
 ## 🚀 Let’s grow — one dataset at a time.
